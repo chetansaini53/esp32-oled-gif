@@ -4,6 +4,8 @@ Play any GIF as a looping animation on a 128×64 SSD1306 OLED, driven by an ESP3
 Includes a small Python tool (`gif2oled.py`) that converts a GIF into a C header of 1‑bit
 frames, and an Arduino sketch that plays them from flash.
 
+![ESP32 playing a GIF on a 0.96" SSD1306 OLED](assets/demo.jpg)
+
 ## Features
 
 - Convert any GIF/image → 1‑bit frames for a 128×64 OLED.
